@@ -11,3 +11,13 @@ def saludo():
     print("Hola, este es un ejemplo de código en Markdown")
 
 saludo()
+
+---
+
+# Imagen del proyecto
+![Captura](screenshot.png)
+
+---
+
+# Autor
+Alejandro Burgos Diz
